@@ -17,7 +17,7 @@
 &nbsp;
 <a href="https://www.twitter.com/jamiesomers1"><img src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" width="50" height="50"></a>
 &nbsp;
-<a href="https://www.jamiesomers.com"><img src="https://icon-library.com/images/globe-vector-icon/globe-vector-icon-19.jpg" width="50" height="50"></a>
+<a href="https://www.jamiesomers.com"><img src="https://scontent.fmci2-1.fna.fbcdn.net/v/t1.15752-9/289632114_2081123425392066_7632844142022570213_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=PAd34_BRnhYAX-hsLFm&_nc_ht=scontent.fmci2-1.fna&oh=03_AVJ2iHVG74eYrXSnXYyC_7zGq40C_zj0BXSXUQT2J2l3pQ&oe=62E3EC51" width="50" height="50"></a>
 &nbsp;
 <a href="https://www.instagram.com/jamiesomers.ie"><img src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" width="50" height="50"></a>
 &nbsp;
