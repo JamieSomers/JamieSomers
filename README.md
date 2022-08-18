@@ -1,6 +1,6 @@
 ![alt text](http://jamiesomers.com/imgs/github.png)
 
-- 👋 Hi, I’m Jamie Somers a third year applied physics student at Dublin City University (DCU). This github serves mostly as a place to store all of the python & C++ programmes I have developed during my undergrad.  
+- 👋 Hi, I’m Jamie Somers a final year applied physics student at Dublin City University (DCU). This github serves mostly as a place to store all of the python & C++ programmes I have developed during my undergrad.  
 
 - 👀 I’m interested in Photonics & Optics however my repositories will cover a broad range of physics phenomenon which reflects the broad range of topics I have studied during my time at university.
 
