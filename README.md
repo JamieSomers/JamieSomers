@@ -1,4 +1,4 @@
-![alt text]([[http://jamiesomers.com/imgs/github.png](https://raw.githubusercontent.com/JamieSomers/JamieSomers/main/Github.png)](https://raw.githubusercontent.com/JamieSomers/JamieSomers/main/Github.png))
+![alt text](https://raw.githubusercontent.com/JamieSomers/JamieSomers/main/Github.png))
 
 - 👋 Hi, I’m Jamie Somers a Physics PhD student at Trinity College Dublin (TCD). This github serves mostly as a place to store all of the python & C++ programmes I have developed during my undergrad.  
 
