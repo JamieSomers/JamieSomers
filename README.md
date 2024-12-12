@@ -18,7 +18,7 @@
 &nbsp;
 <a href="https://www.twitter.com/jamiesomers1"><img src="https://jamiesomers.com/imgs/x-github-logo.png" width="50" height="50"></a>
 &nbsp;
-<a href="https://www.jamiesomers.com"><img src="https://jamiesomers.com/apple-touch-icon.png" width="50" height="50"></a>
+<a href="https://www.jamiesomers.com"><img src="https://jamiesomers.com/imgs/js-github-logo.png" width="50" height="50"></a>
 &nbsp;
 <a href="https://www.instagram.com/jamiesomers.ie"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
 &nbsp;
