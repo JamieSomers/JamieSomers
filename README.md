@@ -22,7 +22,7 @@
 &nbsp;
 <a href="https://www.instagram.com/jamiesomers.ie"><img src="https://jamiesomers.com/imgs/insta-github-logo.png" width="50" height="50"></a>
 &nbsp;
-<a href="https://www.facebook.com/jamiesomers.ie"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50" height="50"></a>
+<a href="https://www.facebook.com/jamiesomers.ie"><img src="https://jamiesomers.com/imgs/fb-github-logo.png" width="50" height="50"></a>
 &nbsp;
 <a href="https://www.reddit.com/user/JamieSomers"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1024px-Reddit_Logo_Icon.svg.png" width="50" height="50"></a>
 &nbsp;
