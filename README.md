@@ -11,7 +11,7 @@
 - 📫 How to reach me ...
 
 ## **Connect with me:**
-<a rel="me" href="https://mstdn.social/@jamiesomers"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1200px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="50" height="50"></a>
+<a rel="me" href="https://mstdn.social/@jamiesomers"><img src="https://jamiesomers.com/imgs/mastodon.png" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/jamiesomers"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="50" height="50"></a>
 &nbsp;
 <a href="https://www.github.com/JamieSomers"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="50" height="50"></a>
