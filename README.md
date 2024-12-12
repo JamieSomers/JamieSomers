@@ -24,7 +24,7 @@
 &nbsp;
 <a href="https://www.facebook.com/jamiesomers.ie"><img src="https://jamiesomers.com/imgs/fb-github-logo.png" width="50" height="50"></a>
 &nbsp;
-<a href="https://www.reddit.com/user/JamieSomers"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1024px-Reddit_Logo_Icon.svg.png" width="50" height="50"></a>
+<a href="https://www.reddit.com/user/JamieSomers"><img src="https://jamiesomers.com/imgs/red-github-logo.png" width="50" height="50"></a>
 &nbsp;
 <!---
 JamieSomers/JamieSomers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
