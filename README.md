@@ -12,7 +12,7 @@
 
 ## **Connect with me:**
 <a rel="me" href="https://mstdn.social/@jamiesomers"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1200px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="50" height="50">Mastodon</a>
-<a href="https://www.linkedin.com/in/jamiesomers"><img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/jamiesomers"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="50" height="50"></a>
 &nbsp;
 <a href="https://www.github.com/JamieSomers"><img src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" width="50" height="50"></a>
 &nbsp;
