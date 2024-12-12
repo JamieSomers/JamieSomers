@@ -41,3 +41,7 @@
 JamieSomers/JamieSomers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## **Recent Published Papers:**
+Wind turbine contaminant classification using machine learning techniques
+Spectrochimica Acta Part B: Atomic Spectroscopy (2023)
+<a target="_blank" href="https://doi.org/10.1016/j.sab.2023.106802">Click Here to Read</a>
