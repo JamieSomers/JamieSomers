@@ -12,6 +12,7 @@
 
 ## **Connect with me:**
 <a href="https://www.jamiesomers.com"><img src="https://jamiesomers.com/imgs/js-github-logo.png" width="50" height="50"></a>
+&nbsp;
 <a href="https://orcid.org/0000-0003-3787-3393"><img src="https://jamiesomers.com/imgs/or-github-logo.png" width="50" height="50"></a>
 &nbsp;
 <a href="https://scholar.google.com/citations?user=StcLIYEAAAAJ"><img src="https://jamiesomers.com/imgs/gs-github-logo.png" width="50" height="50"></a>
@@ -31,8 +32,6 @@
 <a href="https://www.instagram.com/jamiesomers.ie"><img src="https://jamiesomers.com/imgs/insta-github-logo.png" width="50" height="50"></a>
 &nbsp;
 <a href="https://www.facebook.com/jamiesomers.ie"><img src="https://jamiesomers.com/imgs/fb-github-logo.png" width="50" height="50"></a>
-&nbsp;
-<a href="https://www.youtube.com/@JamieSomers1"><img src="https://jamiesomers.com/imgs/yt-github-logo.png" width="50" height="50"></a>
 &nbsp;
 <a rel="me" href="https://mstdn.social/@jamiesomers"><img src="https://jamiesomers.com/imgs/mastodon.png" width="50" height="50"></a>
 &nbsp;
