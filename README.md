@@ -20,11 +20,11 @@
 &nbsp;
 <a href="https://www.jamiesomers.com"><img src="https://jamiesomers.com/apple-touch-icon.png" width="50" height="50"></a>
 &nbsp;
-<a href="https://www.instagram.com/jamiesomers.ie"><img src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" width="50" height="50"></a>
+<a href="https://www.instagram.com/jamiesomers.ie"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50" height="50"></a>
 &nbsp;
-<a href="https://www.facebook.com/jamiesomers.ie"><img src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" width="50" height="50"></a>
+<a href="https://www.facebook.com/jamiesomers.ie"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50" height="50"></a>
 &nbsp;
-<a href="https://www.reddit.com/user/JamieSomers"><img src="https://jamiesomers.com/imgs/iconmonstr-reddit-4.svg" width="50" height="50"></a>
+<a href="https://www.reddit.com/user/JamieSomers"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1024px-Reddit_Logo_Icon.svg.png" width="50" height="50"></a>
 &nbsp;
 <!---
 JamieSomers/JamieSomers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
