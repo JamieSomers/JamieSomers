@@ -30,6 +30,8 @@
 &nbsp;
 <a href="https://www.youtube.com/@JamieSomers1"><img src="https://jamiesomers.com/imgs/yt-github-logo.png" width="50" height="50"></a>
 &nbsp;
+<a href="https://scholar.google.com/citations?user=StcLIYEAAAAJ"><img src="https://jamiesomers.com/imgs/gs-github-logo.png" width="50" height="50"></a>
+&nbsp;
 <!---
 JamieSomers/JamieSomers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
