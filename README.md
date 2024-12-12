@@ -36,6 +36,8 @@
 &nbsp;
 <a href="https://orcid.org/0000-0003-3787-3393"><img src="https://jamiesomers.com/imgs/or-github-logo.png" width="50" height="50"></a>
 &nbsp;
+<a href="https://www.webofscience.com/wos/author/record/GON-6744-2022"><img src="https://jamiesomers.com/imgs/cl-github-logo.png" width="50" height="50"></a>
+&nbsp;
 <!---
 JamieSomers/JamieSomers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
