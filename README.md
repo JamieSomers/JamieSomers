@@ -1,5 +1,5 @@
 ![Scientist Jamie Somers](https://raw.githubusercontent.com/JamieSomers/JamieSomers/main/Github.png)
-
+Check out my personal website <a target="_blank" href="https://www.jamiesomers.com">jamiesomers.com</a> if you want to know more about me and my research!
 ## **Connect with me:**
 <a target="_blank" href="https://www.jamiesomers.com"><img src="https://jamiesomers.com/imgs/js-github-logo.png" width="50" height="50"></a>
 &nbsp;
